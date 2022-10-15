@@ -1,2 +1,2 @@
 ﻿# todolist-api-dotnet
-Project to test .Net features
+Project to test .Net features.
